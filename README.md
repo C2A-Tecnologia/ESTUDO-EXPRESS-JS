@@ -1,10 +1,10 @@
-# INSTALL AND RUN
+# Install and Run
 
 ```
 npm i
 npm start
 ```
-# API RESTFUL
+# API Restful
 
 ## GET 
 - Serve para retornar dados do servidor para o client
