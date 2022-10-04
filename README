@@ -1,3 +1,9 @@
+# INSTALL AND RUN
+
+```
+npm i
+npm start
+```
 # API RESTFUL
 
 ## GET 
