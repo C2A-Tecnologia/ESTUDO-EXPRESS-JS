@@ -17,7 +17,8 @@ npm start
 
 ## PUT = POST
 
-## PATCH = POST mas para Update
+## PATCH = POST
+- Serve para update(Edição) de dados
 
 ## DELETE
 
